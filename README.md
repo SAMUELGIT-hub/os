@@ -11,7 +11,7 @@
 - Spring Data JPA
 - Maven
 - JSP
-- Tomcat
+- Tomcat hajakal
 - MySQL
 - Memcached
 - Rabbitmq
